@@ -1,0 +1,10 @@
+[ { _id: { bikeid: 1301 }, value: 1 },
+  { _id: { bikeid: 1583 }, value: 1 },
+  { _id: { bikeid: 1716 }, value: 1 },
+  { _id: { bikeid: 1741 }, value: 1 },
+  { _id: { bikeid: 1582 }, value: 2 },
+  { _id: { bikeid: 1737 }, value: 2 },
+  { _id: { bikeid: 1891 }, value: 2 },
+  { _id: { bikeid: 1895 }, value: 2 },
+  { _id: { bikeid: 1927 }, value: 4 },
+  { _id: { bikeid: 1897 }, value: 5 } ]
