@@ -14,7 +14,7 @@ var msg = null
 /* ------------------------------------------------------------------------------------------ begin func ---- */
 
 var mapper = function () {
-  var key = {stationid:this.end_station_id}
+  var key = {bikeid:this.bikeid}
 
   var value =
   {
@@ -25,7 +25,7 @@ var mapper = function () {
     // ,start_station_name:this."start station name"
     // ,start_station_latitude:this."start station latitude"
     // ,start_station_longitude:this."start station longitude"
-    end_station_id:this.end_station_id
+    // end_station_id:this.end_station_id
     // ,end_station_name:this."end station name"
     // ,end_station_latitude:this."end station latitude"
     // ,end_station_longitude:this."end station longitude"
@@ -62,7 +62,7 @@ MongoClient.connect(url, {connectTimeoutMS:480000,socketTimeoutMS:480000},functi
     // Get the documents collection
     var collx = db.collection('rides');
     collx.mapReduce(mapper.toString(), reducer.toString(), {
-      out:'bystation_end'
+      out:'lowest_bikes'
     }, function(e, c) {
       if(e){
         console.log("e:")
