@@ -25,7 +25,7 @@ var url = 'mongodb://'+Config.mongohost+':'+Config.mongoport+'/'+Config.mongodb;
 var get_ridez = function(db, CEEBEE) {
 
 
-
+/*
 // top 10 loneliest starting stations
 var C = 'bystation_start'
 
@@ -37,42 +37,42 @@ DE.toArray(function(err, docs) {
 
   CEEBEE()
 }); //toarray
-
-
-/*
-// top 10 loneliest bikes' rides
-  var DE =db.collection('rides').find(
-    { $or: [
-      {bikeid: 1301}
-      ,{bikeid: 1583}
-      ,{bikeid: 1716}
-      ,{bikeid: 1741}
-      ,{bikeid: 1582}
-      ,{bikeid: 1737}
-      ,{bikeid: 1891}
-      ,{bikeid: 1895}
-      ,{bikeid: 1927}
-      ,{bikeid: 1897}
-      ] }
-      );
-
-  DE.toArray(function(err, docs) {
-
-
-
-    CEEBEE()
-}); //toarray
 */
+
+
+// top 10 loneliest bikes' rides
+var DE =db.collection('rides').find(
+  { $or: [
+    {bikeid: 1301}
+    ,{bikeid: 1583}
+    ,{bikeid: 1716}
+    ,{bikeid: 1741}
+    ,{bikeid: 1582}
+    ,{bikeid: 1737}
+    ,{bikeid: 1891}
+    ,{bikeid: 1895}
+    ,{bikeid: 1927}
+    ,{bikeid: 1897}
+    ] }
+    );
+
+DE.toArray(function(err, docs) {
+
+  console.log(docs)
+
+  CEEBEE()
+}); //toarray
+
 
 /*
 // top 10 loneliest bikes
-  var DE =db.collection('bybike').find();
+var DE =db.collection('lowest_bikes').find();
 
-  DE.toArray(function(err, docs) {
+DE.toArray(function(err, docs) {
 
-    console.log(__.first(__.sortBy(docs,'value'),10));
+  console.log(__.first(__.sortBy(docs,'value'),10));
 
-    CEEBEE()
+  CEEBEE()
 }); //toarray
 */
 
