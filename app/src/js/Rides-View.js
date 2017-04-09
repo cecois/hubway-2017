@@ -1,4 +1,4 @@
-var GraffitiView = Backbone.View.extend({
+var RidesView = Backbone.View.extend({
 	// tagName: "ul",
 	// el: "#menu-basemaps-wrapper",
 	events: {

@@ -1,4 +1,4 @@
-var Graffito = Backbone.Model.extend({
+var Ride = Backbone.Model.extend({
 	defaults: {
 		active: false
 	},

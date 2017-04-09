@@ -1,8 +1,8 @@
-var GraffitiCollection = Backbone.Collection.extend({
+var RidesCollection = Backbone.Collection.extend({
 	model: Panel,
 	url: function() {
 		// currently a static dump of fake data
-		return "assets/offline/static.geojson";
+		return "assets/offline/hubway-bybike-bottom-ten-bikes-rides.json";
 		// return "https://pugo.carto.com/api/v2/sql?format=GeoJSON&q=SELECT * FROM cbb_point where created_at >= '2017-03-15T12:52:12Z'"
 
 		// ...but it will ultimately be a dynamic query that, in effect, handles the weekly "cleaning"

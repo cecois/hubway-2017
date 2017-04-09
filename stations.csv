@@ -1,0 +1,187 @@
+"station_id","name","short_name","lat","lon","region_id","capacity"
+"3","Colleges of the Fenway - Fenway at Avenue Louis Pasteur","B32006",42.340021,-71.100812,10,15
+"4","Tremont St at E Berkeley St","C32000",42.345392,-71.069616,10,15
+"5","Northeastern University - North Parking Lot","B32012",42.341814,-71.090179,10,15
+"6","Cambridge St at Joy St","D32000",42.361174,-71.065142,10,15
+"7","Fan Pier","A32000",42.3532874,-71.044389,10,15
+"8","Union Square - Brighton Ave at Cambridge St","A32001",42.353334,-71.137313,10,15
+"9","Commonwealth Ave at Buick St","A32002",42.351246,-71.115639,10,19
+"10","B.U. Central - 725 Comm. Ave.","A32003",42.350406,-71.108279,10,11
+"11","Longwood Ave at Binney St","A32004",42.338629,-71.1065,10,15
+"12","Ruggles T Stop - Columbus Ave at Melnea Cass Blvd","B32002",42.335911,-71.088496,10,14
+"13","Boston Medical Center - E Concord St at Harrison Ave","C32002",42.336437,-71.073089,10,19
+"14","HMS/HSPH - Avenue Louis Pasteur at Longwood Ave","B32003",42.337171,-71.102797,10,21
+"15","Brighton Mills - 370 Western Ave","A32005",42.361667,-71.13802,10,15
+"16","Back Bay T Stop - Dartmouth St at Stuart St","C32003",42.34807412317439,-71.07657015323639,10,19
+"17","Soldiers Field Park - 111 Western Ave","A32006",42.365064,-71.119233,10,15
+"19","Park Dr at Buswell St","A32008",42.347241,-71.105301,10,15
+"20","Aquarium T Stop - 200 Atlantic Ave","B32004",42.35977,-71.051601,10,19
+"21","Prudential Center - Belvedere St","C32007",42.345959,-71.082578,10,25
+"22","South Station - 700 Atlantic Ave","A32010",42.352175,-71.055547,10,47
+"23","Boston City Hall - 28 State St","B32008",42.35892,-71.057629,10,21
+"24","Seaport Square - Seaport Blvd at Northern Ave","B32007",42.351205,-71.043983,10,19
+"25","South End Library - Tremont St at W Newton St","A32009",42.341332,-71.076847,10,15
+"26","Washington St at Waltham St","D32002",42.341522,-71.068922,10,15
+"27","Roxbury Crossing T Stop - Columbus Ave at Tremont St","C32001",42.331184,-71.095171,10,15
+"29","Innovation Lab - 125 Western Ave at Batten Way","A32011",42.363732,-71.124565,10,15
+"30","Brigham Circle - Francis St at Huntington Ave","B32013",42.334073,-71.105221,10,15
+"31","Seaport Hotel - Congress St at Seaport Ln","B32014",42.348833,-71.041747,10,15
+"32","Landmark Center - Brookline Ave at Park Dr","B32015",42.343912,-71.102221,10,11
+"33","Kenmore Square","B32010",42.348706,-71.097009,10,0
+"35","Arch St at Franklin St","D32004",42.355402,-71.058087,10,23
+"36","Copley Square - Dartmouth St at Boylston St","D32005",42.349673,-71.077303,10,4
+"37","New Balance - 20 Guest St","D32001",42.357402,-71.147782,10,14
+"39","Washington St at Rutland St","C32006",42.338623,-71.074182,10,19
+"40","Lewis Wharf at Atlantic Ave","D32006",42.363871,-71.050877,10,15
+"41","Packard's Corner - Commonwealth Ave at Brighton Ave","A32012",42.352261,-71.123831,10,19
+"42","Boylston St at Arlington St","D32007",42.352033,-71.070627,10,0
+"43","Rowes Wharf at Atlantic Ave","D32008",42.357143,-71.050699,10,15
+"44","Congress St at North St","D32009",42.360613,-71.057452,10,19
+"45","Yawkey Way at Boylston St.","B32011",42.344706,-71.097515,10,5
+"46","Christian Science Plaza - Massachusetts Ave at Westland Ave","B32005",42.343864,-71.085918,10,19
+"47","Cross St at Hanover St","D32010",42.362811,-71.056067,10,19
+"48","Post Office Square - Pearl St at Milk St","D32012",42.356755,-71.055407,10,19
+"49","Stuart St at Charles St","D32011",42.351146,-71.066289,10,18
+"50","Boylston St at Berkeley St","D32013",42.350989,-71.073644,10,15
+"51","Washington St at Lenox St","C32005",42.3348756,-71.0790969,10,15
+"52","Newbury St at Hereford St","B32000",42.348717,-71.085954,10,0
+"53","Beacon St at Massachusetts Ave","B32016",42.350851,-71.089886,10,3
+"54","Tremont St at West St","D32014",42.354979,-71.063348,10,15
+"55","Boylston St at Massachusetts Ave","B32018",42.347265,-71.088088,10,3
+"56","Dudley Square - Dudley St at Warren St","B32017",42.328654,-71.084198,10,14
+"57","Columbus Ave at Massachusetts Ave","C32004",42.340799,-71.081572,10,10
+"58","Beacon St at Arlington St","D32017",42.355596,-71.07278,10,15
+"59","Chinatown Gate Plaza","D32015",42.351356,-71.059367,10,15
+"60","Charles Circle - Charles St at Cambridge St","D32016",42.360835,-71.0708399,10,15
+"61","Boylston St at Fairfield St","C32008",42.348762,-71.082383,10,3
+"63","Dorchester Ave at Gillette Park","C32009",42.344023,-71.057054,10,15
+"64","Congress St at Sleeper St","C32010",42.3511,-71.0496,10,19
+"65","Boston Convention and Exhibition Center - Summer St at West Side Dr","D32018",42.3475,-71.0441,10,19
+"66","Allston Green District - Griggs St at Commonwealth Ave","A32017",42.348607,-71.13401,10,3
+"67","MIT at Mass Ave / Amherst St","M32006",42.3581,-71.093198,8,27
+"68","Central Square at Mass Ave / Essex St","M32011",42.36507,-71.1031,8,19
+"69","Coolidge Corner - Beacon St @ Centre St","K32001",42.341598,-71.123338,4,3
+"70","Harvard Kennedy School at Bennett St / Eliot St","M32016",42.37199165408676,-71.12226963043213,8,23
+"71","Conway Park - Somerville Avenue","S32004",42.383405,-71.107593,9,15
+"72","One Broadway / Kendall Sq at Main St / 3rd St","M32003",42.362613,-71.084105,8,15
+"73","Harvard Square at Brattle St / Eliot St","M32017",42.373231,-71.120886,8,15
+"74","Harvard Square at Mass Ave/ Dunster","M32018",42.373268,-71.118579,8,19
+"75","Lafayette Square at Mass Ave / Main St / Columbia St","M32009",42.36346469304347,-71.10057324171066,8,15
+"76","Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St","M32012",42.366426,-71.105495,8,17
+"77","Somerville City Hall","S32001",42.386844,-71.09812,9,4
+"78","Union Square - Somerville","S32002",42.379637,-71.095319,9,19
+"79","Beacon St at Washington / Kirkland","S32003",42.37842,-71.105668,9,3
+"80","MIT Stata Center at Vassar St / Main St","M32005",42.3619622,-71.0920526,8,35
+"81","Boylston St at Washington St","D32019",42.352409,-71.062679,10,15
+"82","Washington Square at Washington St. / Beacon St.","K32002",42.339335,-71.13493,4,7
+"84","CambridgeSide Galleria - CambridgeSide PL at Land Blvd","M32019",42.366981,-71.076472,8,15
+"85","Spaulding Rehabilitation Hospital - Charlestown Navy Yard","D32023",42.378338,-71.048927,10,19
+"87","Harvard University Housing - 115 Putnam Ave at Peabody Terrace","M32014",42.366621,-71.114214,8,15
+"88","Inman Square at Vellucci Plaza / Hampshire St","M32010",42.374035,-71.101427,8,19
+"89","Harvard Law School at Mass Ave / Jarvis St","M32020",42.379011,-71.119945,8,19
+"90","Lechmere Station at Cambridge St / First St","M32001",42.370677,-71.076529,8,19
+"91","One Kendall Square at Hampshire St / Portland St","M32002",42.366277,-71.09169,8,19
+"92","University of Massachusetts Boston - Integrated Sciences Complex","C32014",42.314507,-71.041269,10,19
+"93","JFK/UMass T Stop","C32013",42.320494,-71.051122,10,15
+"94","Main St at Austin St","D32020",42.375603,-71.064608,10,11
+"95","Cambridge St - at Columbia St / Webster Ave","M32007",42.372969,-71.094445,8,15
+"96","Cambridge Main Library at Broadway / Trowbridge St","M32013",42.373379,-71.111075,8,19
+"97","Harvard University River Houses at DeWolfe St / Cowperthwaite St","M32038",42.36919031768079,-71.11714124679565,8,19
+"98","Warren St at Chelsea St","D32021",42.371848,-71.060292,10,19
+"99","Wilson Square","S32005",42.385582,-71.113341,9,15
+"100","Davis Square","S32006",42.396969,-71.123024,9,25
+"102","Powder House Circle - Nathan Tufts Park","S32008",42.400877,-71.116772,9,15
+"103","JFK Crossing at Harvard St. / Thorndike St.","K32004",42.346563,-71.128374,4,15
+"104","Harvard University Radcliffe Quadrangle at Shepard St / Garden St","M32024",42.380287,-71.125107,8,19
+"105","Lower Cambridgeport at Magazine St/Riverside Rd","M32022",42.356954,-71.113687,8,19
+"106","Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave","C32015",42.325333,-71.075354,10,3
+"107","Ames St at Main St","M32037",42.3625,-71.08822,8,19
+"108","Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St","M32023",42.377945,-71.116865,8,17
+"109","TD Garden - West End Park","D32022",42.365942,-71.0645485,10,35
+"110","Harvard University Gund Hall at Quincy St / Kirkland S","M32021",42.376369,-71.114025,8,15
+"111","Packard Ave / Powderhouse Blvd","S32009",42.40449,-71.123413,9,15
+"112","Somerville Hospital at Highland Ave / Crocker St","S32010",42.39082,-71.10942,9,15
+"113","Andrew T Stop - Dorchester Ave at Dexter St","C32012",42.330716,-71.057044,10,15
+"114","Teele Square at 239 Holland St","S32011",42.402763,-71.126908,9,3
+"115","Porter Square Station","M32029",42.387995,-71.119084,8,19
+"116","359 Broadway - Broadway at Fayette Street","M32026",42.370803,-71.104412,8,19
+"117","Binney St / Sixth St","M32027",42.366095,-71.086388,8,19
+"118","Linear Park - Mass. Ave. at Cameron Ave. ","M32025",42.397828,-71.130516,8,19
+"119","South Boston Library - 646 E Broadway","C32017",42.335741,-71.03877,10,15
+"120","Charles st and Beacon St","D32024",42.356052,-71.069849,10,15
+"121","W Broadway at Dorchester St","C32016",42.335693,-71.045859,10,17
+"122","Burlington Ave at Brookline Ave","B32020",42.345733,-71.100694,10,15
+"123","JP Center","E32002",42.313156,-71.11414,10,15
+"124","Curtis Hall - South St at Centre St","E32001",42.309054,-71.11543,10,15
+"125","Hyde Square - Barbara St at Centre St","E32003",42.320998,-71.110833,10,15
+"126","Egleston Square - Atherton St at Washington St","E32004",42.315692,-71.098634,10,15
+"128","E Cottage St at Columbia Rd","C32018",42.320561,-71.06198,10,19
+"129","Hayes Square - Vine St at Moulton St","D32026",42.377022,-71.056605,10,19
+"130","Upham's Corner","C32019",42.317283,-71.065363,10,15
+"131","Jackson Square T Stop","E32006",42.322701,-71.099533,10,18
+"133","Green Street T Stop - Green St at Amory St","E32005",42.310579,-71.107341,10,15
+"134","Boylston St at Dartmouth St","D32027",42.350413,-71.07655,10,3
+"135","ID Building East","C32020",42.344827,-71.028664,10,17
+"136","ID Building West","C32021",42.344796,-71.031614,10,19
+"137","Magoun Square at Trum Field","S32013",42.398365,-71.107818,9,15
+"138","Newmarket Square T Stop - Massachusetts Ave at Newmarket Square","C32022",42.326599,-71.066498,10,15
+"139","Dana Park","M32030",42.361780439606044,-71.10809952020645,8,19
+"140","Danehy Park","M32031",42.388966,-71.132788,8,17
+"141","Kendall Street","M32032",42.363560158429884,-71.08216792345047,8,15
+"142","Alewife Station at Russell Field","M32033",42.396105,-71.139459,8,23
+"143","EF - North Point Park","M32034",42.369885,-71.069957,8,23
+"145","Rindge Avenue - O'Neill Library","M32036",42.392766,-71.129042,8,19
+"146","Murphy Skating Rink - 1880 Day Blvd","C32023",42.336448,-71.023739,10,19
+"149","175 N Harvard St","A32019",42.363796,-71.129164,10,18
+"150","State Street at Channel Center","C32024",42.344137,-71.052608,10,19
+"151","Surface Rd at India St","A32013",42.358155,-71.052163,10,19
+"152","Ink Block - Harrison Ave at Herald St","C32025",42.345901,-71.063187,10,15
+"159","S Huntington Ave at Heath St","E32007",42.3279727,-71.1108971,10,15
+"160","Wentworth Institute of Technology - Huntington Ave at Vancouver St","B32021",42.337596,-71.096391,10,14
+"161","W Broadway at D St","C32029",42.3391085,-71.0514432,10,19
+"162","Franklin Park - Seaver St at Humbolt Ave","C32027",42.309796,-71.092225,10,15
+"163","The Lawn on D","C32028",42.344792,-71.044024,10,19
+"167","Ryan Playground - Dorchester Ave at Harbor View St","C32031",42.317642,-71.056664,10,15
+"169","Edwards Playground - Main St at Eden St","A32022",42.378965,-71.068607,10,15
+"170","Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave","C32030",42.303469,-71.085347,10,14
+"171","Bunker Hill Community College","A32023",42.37408991426522,-71.06905996799469,10,19
+"173","Savin Hill T Stop - S Sydney St at Bay St","C32033",42.3106,-71.0539,10,14
+"174","Washington St at Brock St","D32029",42.3490049,-71.1604106,10,15
+"175","Brighton Center - Washington St at Cambridge St","D32028",42.34894857235593,-71.15027189254761,10,17
+"176","Lesley University","M32039",42.38674802045056,-71.11901879310608,8,15
+"177","University Park","M32040",42.36264779118595,-71.10006093978882,8,19
+"178","MIT Pacific St at Purrington St","M32041",42.35957320109044,-71.10129475593567,8,19
+"179","MIT Vassar St","M32042",42.355601213279265,-71.10394477844238,8,25
+"180","Mt Auburn","M32043",42.37478628706384,-71.13320231437683,8,19
+"183","Alewife MBTA at Steel Place","M32046",42.395588457167094,-71.14260613918304,8,23
+"184","Sidney Research Campus/ Erie Street at Waverly","M32047",42.35775309465199,-71.10393404960632,8,19
+"185","Third at Binney","M32048",42.36544486137399,-71.08277142047882,8,15
+"186","Congress St at Northern Ave","C32032",42.3481,-71.03764,10,11
+"189","Kendall T","M32004",42.362427842912396,-71.08495473861694,8,23
+"190","Nashua Street at Red Auerbach Way","A32025",42.365673,-71.064263,10,37
+"192","Purchase St at Pearl St","A32026",42.354659,-71.053181,10,19
+"193","Brookline Village - Station Street @ MBTA","K32005",42.33289074055233,-71.11658334732056,4,3
+"194","Broadway St at Mt Pleasant St","S32014",42.386141411639564,-71.07828140258789,9,3
+"195","Brian P. Murphy Staircase at Child Street","M32049",42.3720597013741,-71.07202649116516,8,23
+"196","Roxbury YMCA - Warren St at MLK Blvd","B32022",42.317899,-71.082651,10,10
+"197","MLK Blvd at Washington St","B32023",42.321566,-71.091691,10,15
+"199","Upham's Corner T Stop - Magnolia St at Dudley St","B32025",42.318839,-71.069763,10,0
+"200","Washington St at Melnea Cass Blvd","B32026",42.332817,-71.081198,10,15
+"201","NCAAA - Walnut Ave at Crawford St","B32027",42.316902,-71.091946,10,15
+"202","Grove Hall Library - 41 Geneva Ave","B32028",42.30791,-71.080952,10,15
+"203","Columbia Rd at Ceylon St","B32029",42.309572,-71.0729,10,15
+"204","Walnut Ave at Warren St","B32030",42.324081,-71.083235,10,15
+"205","Bowdoin St at Quincy St","B32031",42.306348,-71.067149,10,14
+"207","Faneuil St at Market St","D32030",42.35484,-71.150226,10,2
+"208","Oak Square - 615 Washington St","D32031",42.35057,-71.166491,10,0
+"209","Chelsea St at Saratoga St","A32027",42.379772,-71.027448,10,15
+"210","Bennington St at Byron St","A32028",42.38337841883669,-71.01612031481636,10,15
+"211","Piers Park","A32029",42.364854,-71.035021,10,19
+"212","Maverick Square - Lewis Mall","A32030",42.368051,-71.040509,10,33
+"213","East Boston Neighborhood Health Center - 20 Maverick Square","A32031",42.369536,-71.039431,10,16
+"214","Airport T Stop - Bremen St at Brooks St","A32032",42.375339,-71.031304,10,15
+"215","The Eddy - New St at Sumner St","A32033",42.370744,-71.044201,10,15
+"216","Glendon St at Condor St","A32034",42.382511,-71.030058,10,19
+"217","Orient Heights T Stop - Bennington St at Saratoga St","A32035",42.386781,-71.006098,10,19
+"218","Watermark Seaport - Boston Wharf Rd at Seaport Blvd","C32034",42.351783,-71.045782,10,0
+"219","Central Square - East Boston","A32036",42.374335,-71.039685,10,19

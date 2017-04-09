@@ -69,7 +69,7 @@ this.model.set({downout:target})
 				$(".hit-wrapper").removeClass('split'); //gross but bootstrap responsive didn't work on these manual resizes
 			}
 
-			$(document).attr("title", "Bathroom Stall: " + appState.get("slug"));
+			$(document).attr("title", "Hubway Data Challenge 2017: " + appState.get("slug"));
 
 			return this
 

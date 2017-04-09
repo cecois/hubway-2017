@@ -27,13 +27,13 @@ window.mapBaseMapView = new BaseMapView({
     collection: mapBaseLayers
 });
 
-window.appGraffiti = new GraffitiCollection();
-window.appGraffitiView = new GraffitiView({collection:appGraffiti});
+window.appRides = new RidesCollection();
+window.appRidesView = new RidesView({collection:appRides});
 
 // MANAGES PANECONTAINERS FOR ONE THING
 window.appStateView  = new StateView({model:appState})
-window.appSubmit = new Submit();window.appSubmitView  = new SubmitView({model:appSubmit})
+// window.appSubmit = new Submit();window.appSubmitView  = new SubmitView({model:appSubmit})
 
 // now bootstrap the stuff we want to appear right away
 // ...starting with, u know, the graffiti
-appGraffiti.fetch()
+appRides.fetch()

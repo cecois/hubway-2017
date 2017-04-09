@@ -1,0 +1,210 @@
+{ 
+    "tripduration": 371,
+    "starttime": '2016-07-28 17:01:33',
+    "stoptime": '2016-07-28 17:07:45',
+    "start_station_id": 153,
+    "end_station_id": 153,
+    "bikeid": 1583,
+    "usertype": 'Customer',
+    "birth_year": '\\N',
+    "gender": 0 }
+  { 
+    "tripduration": 224,
+    "starttime": '2016-07-28 17:10:48',
+    "stoptime": '2016-07-28 17:14:33',
+    "start_station_id": 158,
+    "end_station_id": 153,
+    "bikeid": 1582,
+    "usertype": 'Customer',
+    "birth_year": '\\N',
+    "gender": 0 }
+  { 
+    "tripduration": 251,
+    "starttime": '2016-09-27 12:41:24',
+    "stoptime": '2016-09-27 12:45:36',
+    "start_station_id": 210,
+    "end_station_id": 210,
+    "bikeid": 1741,
+    "usertype": 'Subscriber',
+    "birth_year": 1902,
+    "gender": 1 }
+  { 
+    "tripduration": 3739,
+    "starttime": '2016-10-10 17:03:35',
+    "stoptime": '2016-10-10 18:05:54',
+    "start_station_id": 217,
+    "end_station_id": 217,
+    "bikeid": 1895,
+    "usertype": 'Customer',
+    "birth_year": '\\N',
+    "gender": 0 }
+  { 
+    "tripduration": 2501,
+    "starttime": '2016-10-12 13:31:34',
+    "stoptime": '2016-10-12 14:13:15',
+    "start_station_id": 213,
+    "end_station_id": 212,
+    "bikeid": 1927,
+    "usertype": 'Subscriber',
+    "birth_year": 1984,
+    "gender": 1 }
+  { 
+    "tripduration": 8339,
+    "starttime": '2016-10-16 13:18:59',
+    "stoptime": '2016-10-16 15:37:58',
+    "start_station_id": 217,
+    "end_station_id": 217,
+    "bikeid": 1895,
+    "usertype": 'Customer',
+    "birth_year": '\\N',
+    "gender": 0 }
+  { 
+    "tripduration": 8297,
+    "starttime": '2016-10-16 13:19:23',
+    "stoptime": '2016-10-16 15:37:41',
+    "start_station_id": 217,
+    "end_station_id": 217,
+    "bikeid": 1891,
+    "usertype": 'Customer',
+    "birth_year": '\\N',
+    "gender": 0 }
+  { 
+    "tripduration": 190,
+    "starttime": '2016-10-26 16:04:18',
+    "stoptime": '2016-10-26 16:07:28',
+    "start_station_id": 153,
+    "end_station_id": 158,
+    "bikeid": 1582,
+    "usertype": 'Customer',
+    "birth_year": '\\N',
+    "gender": 0 }
+  { 
+    "tripduration": 509,
+    "starttime": '2016-10-30 15:21:28',
+    "stoptime": '2016-10-30 15:29:57',
+    "start_station_id": 211,
+    "end_station_id": 212,
+    "bikeid": 1897,
+    "usertype": 'Subscriber',
+    "birth_year": 1991,
+    "gender": 1 }
+  { 
+    "tripduration": 211,
+    "starttime": '2016-11-02 18:00:09',
+    "stoptime": '2016-11-02 18:03:41',
+    "start_station_id": 212,
+    "end_station_id": 211,
+    "bikeid": 1897,
+    "usertype": 'Subscriber',
+    "birth_year": 1988,
+    "gender": 1 }
+  { 
+    "tripduration": 1280,
+    "starttime": '2016-11-03 16:56:52',
+    "stoptime": '2016-11-03 17:18:12',
+    "start_station_id": 211,
+    "end_station_id": 213,
+    "bikeid": 1897,
+    "usertype": 'Subscriber',
+    "birth_year": 1978,
+    "gender": 1 }
+  { 
+    "tripduration": 712,
+    "starttime": '2016-11-05 18:33:49',
+    "stoptime": '2016-11-05 18:45:42',
+    "start_station_id": 213,
+    "end_station_id": 217,
+    "bikeid": 1897,
+    "usertype": 'Customer',
+    "birth_year": '\\N',
+    "gender": 0 }
+  { 
+    "tripduration": 14571,
+    "starttime": '2016-11-08 11:15:29',
+    "stoptime": '2016-11-08 15:18:20',
+    "start_station_id": 210,
+    "end_station_id": 210,
+    "bikeid": 1737,
+    "usertype": 'Customer',
+    "birth_year": '\\N',
+    "gender": 0 }
+  { 
+    "tripduration": 154,
+    "starttime": '2016-11-12 13:41:54',
+    "stoptime": '2016-11-12 13:44:29',
+    "start_station_id": 213,
+    "end_station_id": 213,
+    "bikeid": 1927,
+    "usertype": 'Subscriber',
+    "birth_year": 1963,
+    "gender": 1 }
+  { 
+    "tripduration": 1177,
+    "starttime": '2016-11-13 15:32:43',
+    "stoptime": '2016-11-13 15:52:20',
+    "start_station_id": 213,
+    "end_station_id": 212,
+    "bikeid": 1927,
+    "usertype": 'Subscriber',
+    "birth_year": 1984,
+    "gender": 1 }
+  { 
+    "tripduration": 310,
+    "starttime": '2016-11-14 12:00:28',
+    "stoptime": '2016-11-14 12:05:39',
+    "start_station_id": 217,
+    "end_station_id": 210,
+    "bikeid": 1897,
+    "usertype": 'Subscriber',
+    "birth_year": 1977,
+    "gender": 1 }
+  { 
+    "tripduration": 11565,
+    "starttime": '2016-11-26 12:47:26',
+    "stoptime": '2016-11-26 16:00:12',
+    "start_station_id": 212,
+    "end_station_id": 212,
+    "bikeid": 1927,
+    "usertype": 'Customer',
+    "birth_year": '\\N',
+    "gender": 0 }
+  { 
+    "tripduration": 670,
+    "starttime": '2016-12-24 09:00:22',
+    "stoptime": '2016-12-24 09:11:32',
+    "start_station_id": 210,
+    "end_station_id": 217,
+    "bikeid": 1716,
+    "usertype": 'Subscriber',
+    "birth_year": 1998,
+    "gender": 1 }
+  { 
+    "tripduration": 4574,
+    "starttime": '2016-12-24 15:46:32',
+    "stoptime": '2016-12-24 17:02:46',
+    "start_station_id": 210,
+    "end_station_id": 210,
+    "bikeid": 1737,
+    "usertype": 'Customer',
+    "birth_year": '\\N',
+    "gender": 0 }
+  { 
+    "tripduration": 1051,
+    "starttime": '2016-12-27 12:36:23',
+    "stoptime": '2016-12-27 12:53:54',
+    "start_station_id": 217,
+    "end_station_id": 219,
+    "bikeid": 1891,
+    "usertype": 'Subscriber',
+    "birth_year": 1998,
+    "gender": 1 }
+  { 
+    "tripduration": 681,
+    "starttime": '2016-12-29 11:03:01',
+    "stoptime": '2016-12-29 11:14:23',
+    "start_station_id": 25,
+    "end_station_id": 23,
+    "bikeid": 1301,
+    "usertype": 'Subscriber',
+    "birth_year": 1967,
+    "gender": 1 }
