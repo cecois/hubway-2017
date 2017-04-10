@@ -11,7 +11,7 @@ var StateView = Backbone.View.extend({
 		return this
 	}
 	,downout: function(e) {
-
+		console.log("e:",e)
 		if(e.type=="keydown" && e.keyCode == 17){
 			e.preventDefault();
 			var w = (appState.get("downout")=="split")?"out":"split";
@@ -20,8 +20,7 @@ var StateView = Backbone.View.extend({
 			e.preventDefault();
 			var w = (appState.get("downout")=="down")?"out":"down";
 			appState.set({downout:w})
-		} else {
-
+		} else if(e.type!=="keydown"){
 
 			var target = $(e.currentTarget).attr("id").split("-")[1]
 
@@ -70,6 +69,8 @@ this.model.set({downout:target})
 			}
 
 			$(document).attr("title", "Hubway Data Challenge 2017: " + appState.get("slug"));
+
+			$('[data-toggle="tooltip"]').tooltip()
 
 			return this
 

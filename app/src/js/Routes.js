@@ -8,7 +8,9 @@ var Route = Backbone.Router.extend({
         return this;
     },
     update: function() {
+        console.log("checking for updated state")
         if (appState.hasChanged() == true) {
+            console.log("state changed, navigating...")
             appRoute.navigate(appState.pullurl(), {
                 trigger: true,
                 replace: false
@@ -23,7 +25,7 @@ var Route = Backbone.Router.extend({
         var zblayername = baselayer == "nil" || typeof baselayer == "undefined" || baselayer == null ? mapBaseLayers.findWhere({
             active: true
         }).get("name") : baselayer;
-        var zdownout = typeof downout !== "undefined" && downout !== null && downout !== "nil" ? downout : "down";
+        var zdownout = typeof downout !== "undefined" && downout !== null && downout !== "nil" ? downout : "out";
         var zbbox = typeof bbox !== "undefined" && bbox !== null && bbox !== "null" && bbox !== "nil" ? bbox : appState.get("bbox");
         appState.set({
             downout: zdownout,

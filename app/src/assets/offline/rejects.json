@@ -1,0 +1,62 @@
+    {
+      "start_station_name": "8D OPS 03",
+      "end_station_name": "8D OPS 03",
+      "start_station_longitude": -73.566921,
+      "start_station_latitude": 45.505086,
+      "end_station_longitude": -73.566921,
+      "end_station_latitude": 45.505086,
+      "text": {
+        "text": "",
+        "headline": "Bike #1583 on 2016.07.28"
+      },
+      "tripduration": 371,
+      "bikeid": 1583,
+      "birth_year": null,
+      "gender": 0,
+      "start_date": {
+        "year": "2016",
+        "month": "07",
+        "day": "28"
+      }
+    },    {
+      "start_station_name": "8D OPS 01",
+      "end_station_name": "8D OPS 03",
+      "start_station_longitude": 0,
+      "start_station_latitude": 0,
+      "end_station_longitude": -73.566921,
+      "end_station_latitude": 45.505086,
+      "text": {
+        "text": "",
+        "headline": "Bike #1582 on 2016.07.28"
+      },
+      "tripduration": 224,
+      "bikeid": 1582,
+      "birth_year": null,
+      "gender": 0,
+      "start_date": {
+        "year": "2016",
+        "month": "07",
+        "day": "28"
+      }
+    },
+    {
+      "start_station_name": "8D OPS 03",
+      "end_station_name": "8D OPS 01",
+      "start_station_longitude": -73.566921,
+      "start_station_latitude": 45.505086,
+      "end_station_longitude": 0,
+      "end_station_latitude": 0,
+      "text": {
+        "text": "",
+        "headline": "Bike #1582 on 2016.10.26"
+      },
+      "tripduration": 190,
+      "bikeid": 1582,
+      "birth_year": null,
+      "gender": 0,
+      "start_date": {
+        "year": "2016",
+        "month": "10",
+        "day": "26"
+      }
+    }

@@ -1,0 +1,487 @@
+{
+  "events": [
+    {
+      "tripduration": 371,
+      "start_date": {
+        "year": "2016",
+        "month": "07",
+        "day": "28",
+        "hour": "17",
+        "minute": "01",
+        "second": "33"
+    },
+    "text": {
+        "headline": "a ride happened at 2016-07-28 17:01:33",
+        "text": "a ride is described here"
+    },
+    "starttime": "2016-07-28 17:01:33",
+    "stoptime": "2016-07-28 17:07:45",
+    "start_station_id": 153,
+    "end_station_id": 153,
+    "bikeid": 1583,
+    "usertype": "Customer",
+    "birth_year": "\\N",
+    "gender": 0
+},
+{
+  "tripduration": 224,
+  "start_date": {
+    "year": "2016",
+    "month": "07",
+    "day": "28",
+    "hour": "17",
+    "minute": "10",
+    "second": "48"
+},
+"text": {
+    "headline": "a ride happened at 2016-07-28 17:10:48",
+    "text": "a ride is described here"
+},
+"starttime": "2016-07-28 17:10:48",
+"stoptime": "2016-07-28 17:14:33",
+"start_station_id": 158,
+"end_station_id": 153,
+"bikeid": 1582,
+"usertype": "Customer",
+"birth_year": "\\N",
+"gender": 0
+},
+{
+  "tripduration": 251,
+  "start_date": {
+    "year": "2016",
+    "month": "09",
+    "day": "27",
+    "hour": "12",
+    "minute": "41",
+    "second": "24"
+},
+"text": {
+    "headline": "a ride happened at 2016-09-27 12:41:24",
+    "text": "a ride is described here"
+},
+"starttime": "2016-09-27 12:41:24",
+"stoptime": "2016-09-27 12:45:36",
+"start_station_id": 210,
+"end_station_id": 210,
+"bikeid": 1741,
+"usertype": "Subscriber",
+"birth_year": 1902,
+"gender": 1
+},
+{
+  "tripduration": 3739,
+  "start_date": {
+    "year": "2016",
+    "month": "10",
+    "day": "10",
+    "hour": "17",
+    "minute": "03",
+    "second": "35"
+},
+"text": {
+    "headline": "a ride happened at 2016-10-10 17:03:35",
+    "text": "a ride is described here"
+},
+"starttime": "2016-10-10 17:03:35",
+"stoptime": "2016-10-10 18:05:54",
+"start_station_id": 217,
+"end_station_id": 217,
+"bikeid": 1895,
+"usertype": "Customer",
+"birth_year": "\\N",
+"gender": 0
+},
+{
+  "tripduration": 2501,
+  "start_date": {
+    "year": "2016",
+    "month": "10",
+    "day": "12",
+    "hour": "13",
+    "minute": "31",
+    "second": "34"
+},
+"text": {
+    "headline": "a ride happened at 2016-10-12 13:31:34",
+    "text": "a ride is described here"
+},
+"starttime": "2016-10-12 13:31:34",
+"stoptime": "2016-10-12 14:13:15",
+"start_station_id": 213,
+"end_station_id": 212,
+"bikeid": 1927,
+"usertype": "Subscriber",
+"birth_year": 1984,
+"gender": 1
+},
+{
+  "tripduration": 8339,
+  "start_date": {
+    "year": "2016",
+    "month": "10",
+    "day": "16",
+    "hour": "13",
+    "minute": "18",
+    "second": "59"
+},
+"text": {
+    "headline": "a ride happened at 2016-10-16 13:18:59",
+    "text": "a ride is described here"
+},
+"starttime": "2016-10-16 13:18:59",
+"stoptime": "2016-10-16 15:37:58",
+"start_station_id": 217,
+"end_station_id": 217,
+"bikeid": 1895,
+"usertype": "Customer",
+"birth_year": "\\N",
+"gender": 0
+},
+{
+  "tripduration": 8297,
+  "start_date": {
+    "year": "2016",
+    "month": "10",
+    "day": "16",
+    "hour": "13",
+    "minute": "19",
+    "second": "23"
+},
+"text": {
+    "headline": "a ride happened at 2016-10-16 13:19:23",
+    "text": "a ride is described here"
+},
+"starttime": "2016-10-16 13:19:23",
+"stoptime": "2016-10-16 15:37:41",
+"start_station_id": 217,
+"end_station_id": 217,
+"bikeid": 1891,
+"usertype": "Customer",
+"birth_year": "\\N",
+"gender": 0
+},
+{
+  "tripduration": 190,
+  "start_date": {
+    "year": "2016",
+    "month": "10",
+    "day": "26",
+    "hour": "16",
+    "minute": "04",
+    "second": "18"
+},
+"text": {
+    "headline": "a ride happened at 2016-10-26 16:04:18",
+    "text": "a ride is described here"
+},
+"starttime": "2016-10-26 16:04:18",
+"stoptime": "2016-10-26 16:07:28",
+"start_station_id": 153,
+"end_station_id": 158,
+"bikeid": 1582,
+"usertype": "Customer",
+"birth_year": "\\N",
+"gender": 0
+},
+{
+  "tripduration": 509,
+  "start_date": {
+    "year": "2016",
+    "month": "10",
+    "day": "30",
+    "hour": "15",
+    "minute": "21",
+    "second": "28"
+},
+"text": {
+    "headline": "a ride happened at 2016-10-30 15:21:28",
+    "text": "a ride is described here"
+},
+"starttime": "2016-10-30 15:21:28",
+"stoptime": "2016-10-30 15:29:57",
+"start_station_id": 211,
+"end_station_id": 212,
+"bikeid": 1897,
+"usertype": "Subscriber",
+"birth_year": 1991,
+"gender": 1
+},
+{
+  "tripduration": 211,
+  "start_date": {
+    "year": "2016",
+    "month": "11",
+    "day": "02",
+    "hour": "18",
+    "minute": "00",
+    "second": "09"
+},
+"text": {
+    "headline": "a ride happened at 2016-11-02 18:00:09",
+    "text": "a ride is described here"
+},
+"starttime": "2016-11-02 18:00:09",
+"stoptime": "2016-11-02 18:03:41",
+"start_station_id": 212,
+"end_station_id": 211,
+"bikeid": 1897,
+"usertype": "Subscriber",
+"birth_year": 1988,
+"gender": 1
+},
+{
+  "tripduration": 1280,
+  "start_date": {
+    "year": "2016",
+    "month": "11",
+    "day": "03",
+    "hour": "16",
+    "minute": "56",
+    "second": "52"
+},
+"text": {
+    "headline": "a ride happened at 2016-11-03 16:56:52",
+    "text": "a ride is described here"
+},
+"starttime": "2016-11-03 16:56:52",
+"stoptime": "2016-11-03 17:18:12",
+"start_station_id": 211,
+"end_station_id": 213,
+"bikeid": 1897,
+"usertype": "Subscriber",
+"birth_year": 1978,
+"gender": 1
+},
+{
+  "tripduration": 712,
+  "start_date": {
+    "year": "2016",
+    "month": "11",
+    "day": "05",
+    "hour": "18",
+    "minute": "33",
+    "second": "49"
+},
+"text": {
+    "headline": "a ride happened at 2016-11-05 18:33:49",
+    "text": "a ride is described here"
+},
+"starttime": "2016-11-05 18:33:49",
+"stoptime": "2016-11-05 18:45:42",
+"start_station_id": 213,
+"end_station_id": 217,
+"bikeid": 1897,
+"usertype": "Customer",
+"birth_year": "\\N",
+"gender": 0
+},
+{
+  "tripduration": 14571,
+  "start_date": {
+    "year": "2016",
+    "month": "11",
+    "day": "08",
+    "hour": "11",
+    "minute": "15",
+    "second": "29"
+},
+"text": {
+    "headline": "a ride happened at 2016-11-08 11:15:29",
+    "text": "a ride is described here"
+},
+"starttime": "2016-11-08 11:15:29",
+"stoptime": "2016-11-08 15:18:20",
+"start_station_id": 210,
+"end_station_id": 210,
+"bikeid": 1737,
+"usertype": "Customer",
+"birth_year": "\\N",
+"gender": 0
+},
+{
+  "tripduration": 154,
+  "start_date": {
+    "year": "2016",
+    "month": "11",
+    "day": "12",
+    "hour": "13",
+    "minute": "41",
+    "second": "54"
+},
+"text": {
+    "headline": "a ride happened at 2016-11-12 13:41:54",
+    "text": "a ride is described here"
+},
+"starttime": "2016-11-12 13:41:54",
+"stoptime": "2016-11-12 13:44:29",
+"start_station_id": 213,
+"end_station_id": 213,
+"bikeid": 1927,
+"usertype": "Subscriber",
+"birth_year": 1963,
+"gender": 1
+},
+{
+  "tripduration": 1177,
+  "start_date": {
+    "year": "2016",
+    "month": "11",
+    "day": "13",
+    "hour": "15",
+    "minute": "32",
+    "second": "43"
+},
+"text": {
+    "headline": "a ride happened at 2016-11-13 15:32:43",
+    "text": "a ride is described here"
+},
+"starttime": "2016-11-13 15:32:43",
+"stoptime": "2016-11-13 15:52:20",
+"start_station_id": 213,
+"end_station_id": 212,
+"bikeid": 1927,
+"usertype": "Subscriber",
+"birth_year": 1984,
+"gender": 1
+},
+{
+  "tripduration": 310,
+  "start_date": {
+    "year": "2016",
+    "month": "11",
+    "day": "14",
+    "hour": "12",
+    "minute": "00",
+    "second": "28"
+},
+"text": {
+    "headline": "a ride happened at 2016-11-14 12:00:28",
+    "text": "a ride is described here"
+},
+"starttime": "2016-11-14 12:00:28",
+"stoptime": "2016-11-14 12:05:39",
+"start_station_id": 217,
+"end_station_id": 210,
+"bikeid": 1897,
+"usertype": "Subscriber",
+"birth_year": 1977,
+"gender": 1
+},
+{
+  "tripduration": 11565,
+  "start_date": {
+    "year": "2016",
+    "month": "11",
+    "day": "26",
+    "hour": "12",
+    "minute": "47",
+    "second": "26"
+},
+"text": {
+    "headline": "a ride happened at 2016-11-26 12:47:26",
+    "text": "a ride is described here"
+},
+"starttime": "2016-11-26 12:47:26",
+"stoptime": "2016-11-26 16:00:12",
+"start_station_id": 212,
+"end_station_id": 212,
+"bikeid": 1927,
+"usertype": "Customer",
+"birth_year": "\\N",
+"gender": 0
+},
+{
+  "tripduration": 670,
+  "start_date": {
+    "year": "2016",
+    "month": "12",
+    "day": "24",
+    "hour": "09",
+    "minute": "00",
+    "second": "22"
+},
+"text": {
+    "headline": "a ride happened at 2016-12-24 09:00:22",
+    "text": "a ride is described here"
+},
+"starttime": "2016-12-24 09:00:22",
+"stoptime": "2016-12-24 09:11:32",
+"start_station_id": 210,
+"end_station_id": 217,
+"bikeid": 1716,
+"usertype": "Subscriber",
+"birth_year": 1998,
+"gender": 1
+},
+{
+  "tripduration": 4574,
+  "start_date": {
+    "year": "2016",
+    "month": "12",
+    "day": "24",
+    "hour": "15",
+    "minute": "46",
+    "second": "32"
+},
+"text": {
+    "headline": "a ride happened at 2016-12-24 15:46:32",
+    "text": "a ride is described here"
+},
+"starttime": "2016-12-24 15:46:32",
+"stoptime": "2016-12-24 17:02:46",
+"start_station_id": 210,
+"end_station_id": 210,
+"bikeid": 1737,
+"usertype": "Customer",
+"birth_year": "\\N",
+"gender": 0
+},
+{
+  "tripduration": 1051,
+  "start_date": {
+    "year": "2016",
+    "month": "12",
+    "day": "27",
+    "hour": "12",
+    "minute": "36",
+    "second": "23"
+},
+"text": {
+    "headline": "a ride happened at 2016-12-27 12:36:23",
+    "text": "a ride is described here"
+},
+"starttime": "2016-12-27 12:36:23",
+"stoptime": "2016-12-27 12:53:54",
+"start_station_id": 217,
+"end_station_id": 219,
+"bikeid": 1891,
+"usertype": "Subscriber",
+"birth_year": 1998,
+"gender": 1
+},
+{
+  "tripduration": 681,
+  "start_date": {
+    "year": "2016",
+    "month": "12",
+    "day": "29",
+    "hour": "11",
+    "minute": "03",
+    "second": "01"
+},
+"text": {
+    "headline": "a ride happened at 2016-12-29 11:03:01",
+    "text": "a ride is described here"
+},
+"starttime": "2016-12-29 11:03:01",
+"stoptime": "2016-12-29 11:14:23",
+"start_station_id": 25,
+"end_station_id": 23,
+"bikeid": 1301,
+"usertype": "Subscriber",
+"birth_year": 1967,
+"gender": 1
+}
+]
+}

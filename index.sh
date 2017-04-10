@@ -10,10 +10,10 @@ for item in ${series[@]};do
 fil="2016${item}-hubway-tripdata.csv"
 echo "running $fil..."
 
-cat $fil | tail -n+2 >> 2016-hubway-tripdata.csv
+# cat $fil | tail -n+2 >> 2016-hubway-tripdata.csv
 # if [[ $item == "01" ]]; then
 
-	# mongoimport -h localhost -d hubway -c rides --file $fil --type csv --headerline
+	mongoimport -h localhost -d hubway -c rides --file $fil --type csv --headerline
 
 # else
 # 	mongoimport -h localhost -d hubway -c rides --file $fil --type csv --fields "tripduration,starttime,stoptime,start_station_id,start_station_name,start_station_latitude,start_station_longitude,end_station_id,end_station_name,end_station_latitude,end_station_longitude,bikeid,usertype,birth_year,gender"
